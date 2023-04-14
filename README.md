@@ -39,3 +39,6 @@ After analysing survey data, I explored what insights I could derive. Here are m
 5.	On a global level, most popular platform for gaming is PS2. Game sale for the PS2 grossed to 1.255 billion units sold. The PS2 console launched in 2000 and yet still the unbeaten compared to even to its upgrade PS3.
 
 ## Tools used during analysis
+
+This dashboard was built using Excel and advanced Excel functions such as pivot tables and charts. I have included slicers with this dashboard to further filter the data, so you can view game sales by genre, year the game was release, or a combination of two for key information analysis.
+I thank you for reading my article and welcome any feedback! Please visit my GitHub platform to download file to fully interact with the final dashboard. Please feel free to connect and chat with me on LinkedIn
