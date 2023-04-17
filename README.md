@@ -1,5 +1,7 @@
 # Video Games Analysis
 
+Tools: Excel 
+
 ## The Data
 
 This was my second data analysis project. The data set that I used for this analysis was downloaded from Kaggle, it comprises of video game sales for 16,599 games, which have sales greater than 100,000 copies. The dataset provides the following information:
