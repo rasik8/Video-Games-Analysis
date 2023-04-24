@@ -1,6 +1,8 @@
 # Video Games Analysis
 
-Tools: Excel 
+Tools: Excel
+
+<br />
 
 ## The Data
 
@@ -18,6 +20,8 @@ This was my second data analysis project. The data set that I used for this anal
 - **Other_Sales** - Sales in the rest of the world (in millions) 
 - **Global_Sales** - Total worldwide sales.
 
+<br />
+
 ## Data Investigation
 
 After analysing survey data, I explored what insights I could derive. Here are my questions to answer:
@@ -27,6 +31,8 @@ After analysing survey data, I explored what insights I could derive. Here are m
  - **3.	Which video game genre generated the most sales across different regions?**
  - **4.   What are the top 5 video game publishers globally?**
  - **5.   What are the top 5 popular video game platforms?**
+ 
+<br />
 
 ## Observation
 
@@ -40,14 +46,20 @@ After analysing survey data, I explored what insights I could derive. Here are m
 
 5.	On a global level, most popular platform for gaming is PS2. Game sale for the PS2 grossed to 1.255 billion units sold. The PS2 console launched in 2000 and yet still the unbeaten compared to even to its upgrade PS3.
 
+<br />
+
 ## Tools used during analysis
 
 This dashboard was built using Excel and advanced Excel functions such as pivot tables and charts. I have included slicers with this dashboard to further filter the data, so you can view game sales by genre, year the game was release, or a combination of two for key information analysis.
 
 I thank you for reading my article and welcome any feedback! Please download the xlsm file to fully interact with the final dashboard. Please feel free to connect and chat with me on [linkedin](https://www.linkedin.com/in/rasiklal-limbani-004931163/)
 
+<br />
+
 <p align="center" width="100%">
     <img width="60%" src="https://user-images.githubusercontent.com/127439365/232039306-f9c0de39-a580-48a1-a28d-02c7b4ee4c5e.png">
 </p>
+
+<br />
 
 Data download from Kaggle.com
